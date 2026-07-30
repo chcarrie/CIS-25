@@ -2,7 +2,7 @@
 
 using namespace std;
 int main() {
-    cout <<"Hello Inventory System!\t" <<;
+    cout <<"Hello Inventory System!\t";
     cout <<"\nSize of Data Types:\n";
     cout << "Size of int: " << sizeof(int) << " byte(s)\n";
     cout << "Size of char: " << sizeof(char) << " bytes\n";
